@@ -88,7 +88,7 @@ The app uses the CoinPaprika API for fetching cryptocurrency data. For more info
 
 ## Contributing
 
-Feel free to contribute to this project by submitting pull requests or opening issues. For any questions or suggestions, please contact [your-email@example.com](mailto:jlpmartins98@gmail.com).
+Feel free to contribute to this project by submitting pull requests or opening issues. For any questions or suggestions, please contact [jlpmartins98@gmail.com](mailto:jlpmartins98@gmail.com).
 
 ## License
 
